@@ -1,0 +1,17 @@
+from tkinter import *
+
+top = Tk()
+Lb = Listbox(top)
+Lb.insert(1, "Python")
+Lb.insert(2, "Perl")
+Lb.insert(3, "C++")
+Lb.insert(4, "PHP")
+Lb.insert(5, "Java")
+Lb.insert(6, "C#")
+Lb.insert(7, "C")
+Lb.insert(8, "C++")
+Lb.insert(9, "PHP")
+Lb.insert(10, "Java")
+Lb.insert(11, "C#")
+Lb.pack()
+top.mainloop()
