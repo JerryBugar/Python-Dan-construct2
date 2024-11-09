@@ -1,0 +1,2 @@
+x = "semangka"
+print(x)

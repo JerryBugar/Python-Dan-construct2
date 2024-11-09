@@ -1,0 +1,1 @@
+file.add_command(label="New", command=open_combobox_window)
